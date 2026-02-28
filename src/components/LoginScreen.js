@@ -78,7 +78,7 @@ const LoginScreen = ({ onLogin, error }) => {
       
       {/* --- (NOVO) Footer --- */}
       <footer className="text-center p-4 text-gray-500 text-sm">
-        Sistema Desenvolvido por VD System - Copyright @ 2025.
+        Sistema Desenvolvido por VD System - Copyright @ 2026.
       </footer>
       {/* --- Fim do Footer --- */}
       

@@ -11,7 +11,7 @@ import StudentHeader from './components/StudentHeader';
 import VolumeChart from './components/VolumeChart';
 
 // --- (Constante da URL da API) ---
-const API_URL = 'http://localhost:3001';
+const API_URL = 'https://motor-3v-runclub.onrender.com';
 
 // --- Componente da Aba Gerenciar Alunos (Sem Alterações) ---
 const GerenciarAlunosTab = ({ students, setStudents, professorId }) => {
@@ -2445,7 +2445,7 @@ export default function App() {
       
       {/* --- (NOVO) Footer --- */}
       <footer className="text-center p-4 text-gray-500 text-sm no-print">
-        Sistema Desenvolvido por VD System - Copyright @ 2025.
+        Sistema Desenvolvido por VD System - Copyright @ 2026.
       </footer>
       {/* --- Fim do Footer --- */}
       
